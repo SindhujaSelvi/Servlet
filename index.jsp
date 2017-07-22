@@ -1,16 +1,13 @@
 <html>
-<head>Registration Form</head>
+<head>Know the world</head>
 <title>form</title>
 <body> 
-<form action="Register" method="get"> 
-
-First Name:<input type="text" name="fname"/><br/><br/> 
-last Name:<input type="text" name="lname"/><br/><br/> 
-Email Id: <input type="text" name="email"/><br/><br/> 
-Date: <input type="text" name="date"/><br/><br/> 
-time: <input type="text" name="time"/><br/><br/> 
-topic: <input type="text" name="topic"/><br/><br/> 
-location: <input type="text" name="location"/><br/><br/> 
+    <h1></h1>
+<form action="Library" method="get"> 
+Novel:<input type="text" name="novel"/><br/><br/> 
+StoryBook:<input type="text" name="story"/><br/><br/> 
+Daily_Users: <input type="text" name="usercount"/><br/><br/> 
+Available_Books: <input type="text" name="book_available"/><br/><br/> 
  <br/><br/> 
 <input type="submit" value="SUBMIT"/> 
 
